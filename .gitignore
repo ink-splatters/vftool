@@ -1,0 +1,5 @@
+.DS_Store
+/build
+/*-server-cloudimg-arm64-initrd-generic
+/*-server-cloudimg-arm64-vmlinuz-generic
+/*-21.10-server-cloudimg-arm64.tar.gz
